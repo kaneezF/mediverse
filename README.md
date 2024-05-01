@@ -18,3 +18,9 @@ Mediverse is a web application designed to provide various healthcare-related se
 
 5. **Secure Sign-in**:
    - All features and pages are accessible only after signing in, ensuring user privacy and security.
+
+##Technologies used
+
+1.Streamlit Python
+2.Random forest algorithm
+3.Database - MySQL
