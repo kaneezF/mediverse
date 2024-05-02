@@ -26,3 +26,8 @@ Mediverse is a web application designed to provide various healthcare-related se
 2.Random forest algorithm
 
 3.Database - MySQL
+
+
+## Disclaimer: 
+Mediverse is not a substitute for professional medical advice. 
+Consult a healthcare provider for accurate diagnosis and treatment.
